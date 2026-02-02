@@ -37,10 +37,18 @@
 <!-- ========= CONNECT ========= -->
 <h2></h2>
 
-<p>
-  LinkedIn: <a href="https://www.linkedin.com/in/victor-petkov-43207b111/">victor-petkov</a><br/>
-  Buy me a coffee: <a href="https://buymeacoffee.com/victorppetq">buymeacoffee.com/victorppetq</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/victor-petkov-43207b111/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Victor%20Petkov-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
+
+<p align="left">
+  <a href="https://buymeacoffee.com/victorppetq" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
+  </a>
+</p>
+
 
 <!-- ========= FUN FACT ========= -->
 <details>
