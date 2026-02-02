@@ -45,7 +45,7 @@
 <details>
   <summary>✨ Fun fact</summary>
   <p>
-    Website: <a href="https://viavic.io">viavic.io</a><br/>
-    I like to take photos 📸
+    I like to take photos 📸: <a href="https://viavic.io">viavic.io</a><br/>
+  
   </p>
 </details>
