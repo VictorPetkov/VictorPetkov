@@ -1,9 +1,10 @@
 <!-- ========= HERO ========= -->
-<h1 align="center">👋</h1>
+<img src="./banner.jpg" alt="Victor's GitHub Banner" width="100%" />
+<h1 align="center"></h1>
 
 <p align="center">
-  <b>AI Enablement</b> • <b>Developer Productivity</b> • <b>Coaching Teams on AI Adoption</b><br/>
-  Building practical AI tooling, automation, and dashboards that help teams ship faster
+  <b>Elentir.io</b> • <b>Perq.❤️</b> • <b>Viavic.io>
+  Building side projects with a focus on Toronto!
 </p>
 
 <hr/>
