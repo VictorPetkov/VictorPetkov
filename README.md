@@ -13,7 +13,10 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  Building side projects with a focus on Toronto!❤️
+  Building side projects with a focus on Toronto! ❤️
+</p>
+<p align="center">
+  Elentir.io | Perq.love | ViaVic.io
 </p>
 
 
