@@ -17,15 +17,7 @@
   Building side projects with a focus on Toronto!❤️
 </p>
 
-<p align="center">
-  <a href="https://elentir.io" target="_blank">
-    <img src="./ElentirT.png" alt="Elentir" height="48" style="vertical-align: middle;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://perq.love" target="_blank">
-    <img src="./Perq.png" alt="Perq.love" height="48" style="vertical-align: middle;" />
-  </a>
-</p>
+
 
 
 <hr/>
@@ -88,3 +80,12 @@
     </td>
   </tr>
 </table>
+<p align="center">
+  <a href="https://elentir.io" target="_blank">
+    <img src="./ElentirT.png" alt="Elentir" height="48" style="vertical-align: middle;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://perq.love" target="_blank">
+    <img src="./Perq.png" alt="Perq.love" height="48" style="vertical-align: middle;" />
+  </a>
+</p>
