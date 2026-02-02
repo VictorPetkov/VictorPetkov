@@ -1,3 +1,13 @@
+<table width="100%" cellpadding="0" cellspacing="0" style="border: none;">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="animated top border" />
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding: 16px;">
+
 <!-- ========= HERO ========= -->
 <img src="./banner.jpg" alt="Victor's GitHub Banner" width="100%" />
 <h1 align="center"></h1>
@@ -58,3 +68,12 @@
   
   </p>
 </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="animated bottom border" />
+    </td>
+  </tr>
+</table>
