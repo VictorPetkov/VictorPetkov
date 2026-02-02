@@ -3,7 +3,7 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <b>Elentir.io</b> • <b>Perq.love</b> • <b>Viavic.io>
+  <b>Elentir.io</b> | <b>Perq.love</b> | <b>Viavic.io> |
   Building side projects with a focus on Toronto!❤️
 </p>
 
