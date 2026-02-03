@@ -62,11 +62,7 @@
 <!-- ========= CONNECT ========= -->
 <h2></h2>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/victor-petkov-43207b111/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Victor%20Petkov-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+
 
 <p align="left">
   <a href="https://buymeacoffee.com/victorppetq" target="_blank">
