@@ -53,7 +53,7 @@
 <hr/>
 
 <!-- ========= CONNECT ========= -->
-<p align="center">
+<p align="left">
   <a href="https://buymeacoffee.com/victorppetq" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
   </a>
